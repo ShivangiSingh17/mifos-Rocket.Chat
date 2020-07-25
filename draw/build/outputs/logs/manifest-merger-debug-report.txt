@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+		INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:5:5-10:19
+	android:name
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:5:18-49
+activity#chat.rocket.android.draw.main.ui.DrawingActivity
+ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:6:9-9:76
+	android:configChanges
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:9:13-74
+	android:theme
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:8:13-69
+	android:name
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml:7:13-52
+uses-sdk
+INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+		INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+		ADDED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
+		INJECTED from /home/shivangi/Desktop/mifos-rocketchat/draw/src/main/AndroidManifest.xml
